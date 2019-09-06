@@ -1,3 +1,2 @@
-blue
-red
-white
+manycolors
+alotcolors

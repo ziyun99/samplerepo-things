@@ -1,3 +1,2 @@
-apples
-berries
+fruits
 cherries
